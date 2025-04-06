@@ -1,0 +1,2 @@
+# riset-pytrends
+sesuai namanya
